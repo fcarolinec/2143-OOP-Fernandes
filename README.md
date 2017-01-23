@@ -10,4 +10,5 @@ http://fcarolinec.wixsite.com/econ
 
 
 
-![Alt text](https://github.com/fcarolinec/2143-OOP-Fernandes/blob/master/Martini.jpg)
+![Alt text](https://github.com/fcarolinec/2143-OOP-Fernandes/blob/master/Soroe.jpg)
+
